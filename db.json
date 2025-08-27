@@ -1,0 +1,14 @@
+{
+  "products": [],
+  "orders": [
+    {
+      "product": {
+        "id": 1,
+        "name": "Echo Dot (Alexa)",
+        "price": 35
+      },
+      "cantidad": 15,
+      "date": "2025-08-13T04:24:36.990Z"
+    }
+  ]
+}
